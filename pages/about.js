@@ -4,7 +4,7 @@ import AboutMe from "../components/AboutMe";
 
 export default function about() {
   return (
-    <ContainerBlock title="About | Bryl Lim">
+    <ContainerBlock title="About - Bryl Lim">
       <AboutMe />
     </ContainerBlock>
   );

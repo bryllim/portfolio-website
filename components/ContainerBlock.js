@@ -8,7 +8,7 @@ export default function ContainerBlock({ children, ...customMeta }) {
   const router = useRouter();
 
   const meta = {
-    title: "Bryl Lim | Software Engineer",
+    title: "Bryl Lim - Software Engineer",
     description: `A 23-year-old software engineer based in Cebu, Philippines.`,
     image: "/avatar.png",
     type: "website",
