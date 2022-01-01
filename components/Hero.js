@@ -2,16 +2,6 @@ import React from "react";
 import userData from "@constants/data";
 
 export default function Hero() {
-  const getAge = (dateString) => {
-    const today = new Date();
-    const birthDate = new Date(dateString);
-    const age = today.getFullYear() - birthDate.getFullYear();
-    const m = today.getMonth() - birthDate.getMonth();
-    if (m < 0 || (m === 0 && today.getDate() < birthDate.getDate())) {
-      age--;
-    }
-    return age;
-  };
 
   return (
     <div className="px-2 md:px-0">
@@ -33,7 +23,7 @@ export default function Hero() {
                 CEO & Co-founder
               </h1>
               <p className="mx-auto text-sm sm:text-base text-gray-700 dark:text-gray-200 sm:max-w-md lg:text-xl md:max-w-3xl">
-                A {getAge("11/17/1998")}-year-old{" "}
+                A 23-year-old{" "}
                 <span className="font-bold">software engineer</span> based in
                 Cebu, Philippines.
               </p>
