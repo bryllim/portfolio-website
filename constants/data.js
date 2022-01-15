@@ -3,7 +3,7 @@ const userData = {
   name: "Bryl Lim",
   designation: "Software Engineer",
   avatarUrl: "/avatar.png",
-  email: "contact@bryllim.com",
+  email: "bryllim@gmail.com",
   phone: "+63 905 521 0329",
   address: "Cebu City, Cebu, Philippines",
   projects: [

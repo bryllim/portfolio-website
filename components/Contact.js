@@ -33,7 +33,7 @@ export default function Contact() {
               </a>{" "}
               with me.
             </p>
-            <p className="mt-10">contact@bryllim.com</p>
+            <p className="mt-10">bryllim@gmail.com</p>
           </header>
         </div>
       </div>
