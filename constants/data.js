@@ -82,6 +82,11 @@ const userData = {
       link: "http://gogetclientele.com",
       imgUrl: "/projects/gogetclientele.png",
     },
+    {
+      title: "Waxman Equities",
+      link: "http://waxmanequities.com",
+      imgUrl: "/projects/waxmanequities.png",
+    },
   ],
   about: {
     title:
