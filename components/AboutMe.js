@@ -575,86 +575,86 @@ export default function AboutMe() {
             <h1 className="rounded-md bg-black dark:bg-white text-xl px-2 py-1 mt-5 inline-block font-bold text-gray-50 dark:text-black">
               Recommendations
             </h1>
-            <div class="pt-5 flex items-center justify-center">
-              <div class="bg-white border shadow-sm px-4 py-3 rounded-lg">
-                <div class="flex items-center">
+            <div className="pt-5 flex items-center justify-center">
+              <div className="bg-white border shadow-sm px-4 py-3 rounded-lg">
+                <div className="flex items-center">
                   <img
-                    class="h-12 w-12 rounded-full"
+                    className="h-12 w-12 rounded-full"
                     src="https://media-exp1.licdn.com/dms/image/C5603AQFxLl9tLcMg4w/profile-displayphoto-shrink_100_100/0/1617860367732?e=1646265600&v=beta&t=4bS7n7qqt6-TD4CP58WrV1ukGXd-XhObhrztu_Rvck0"
                   />
-                  <div class="ml-2">
-                    <div class="text-sm text-black">
-                      <span class="font-semibold">Cris Lawrence Adrian Militante</span>
+                  <div className="ml-2">
+                    <div className="text-sm text-black">
+                      <span className="font-semibold">Cris Lawrence Adrian Militante</span>
                     </div>
-                    <div class="text-gray-500 text-xs ">
+                    <div className="text-gray-500 text-xs ">
                       ICT Director
                     </div>
                   </div>
                 </div>
-                <p class="text-gray-800 text-sm mt-2 leading-normal md:leading-relaxed">
+                <p className="text-gray-800 text-sm mt-2 leading-normal md:leading-relaxed">
                 Bryl was the most talented software engineer I've mentored in a long time. He's a fast learner, and he always makes sure to deliver quality output given a period of time. He is also very keen on learning new technologies, and I find him to be objectively passionate about tech. He's definitely someone you want on your team.
                 </p>
               </div>
             </div>
-            <div class="pt-5 flex items-center justify-center">
-              <div class="bg-white border shadow-sm px-4 py-3 rounded-lg">
-                <div class="flex items-center">
+            <div className="pt-5 flex items-center justify-center">
+              <div className="bg-white border shadow-sm px-4 py-3 rounded-lg">
+                <div className="flex items-center">
                   <img
-                    class="h-12 w-12 rounded-full"
+                    className="h-12 w-12 rounded-full"
                     src="https://media-exp1.licdn.com/dms/image/C4E03AQFAQpSZ-rJK5A/profile-displayphoto-shrink_100_100/0/1516689167570?e=1646265600&v=beta&t=Qmp4ORwB8yUBaudNMYCr5-DRH3UhfnVHnRQymZ33nbE"
                   />
-                  <div class="ml-2">
-                    <div class="text-sm text-black">
-                      <span class="font-semibold">Glenn Pepito</span>
+                  <div className="ml-2">
+                    <div className="text-sm text-black">
+                      <span className="font-semibold">Glenn Pepito</span>
                     </div>
-                    <div class="text-gray-500 text-xs ">
+                    <div className="text-gray-500 text-xs ">
                       Professor
                     </div>
                   </div>
                 </div>
-                <p class="text-gray-800 text-sm mt-2 leading-normal md:leading-relaxed">
+                <p className="text-gray-800 text-sm mt-2 leading-normal md:leading-relaxed">
                 Bryl is a good student and software developer who shows professionalism and dedication in whatever he does. His software projects during his academic years are up to standard and is being used by the university for some of its operations. Bryl also demonstrated social awareness and leadership skills through his involvement as an officer/member in various student and special interest groups in the university.
                 </p>
               </div>
             </div>
-            <div class="pt-5 flex items-center justify-center">
-              <div class="bg-white border shadow-sm px-4 py-3 rounded-lg">
-                <div class="flex items-center">
+            <div className="pt-5 flex items-center justify-center">
+              <div className="bg-white border shadow-sm px-4 py-3 rounded-lg">
+                <div className="flex items-center">
                   <img
-                    class="h-12 w-12 rounded-full"
+                    className="h-12 w-12 rounded-full"
                     src="https://media-exp1.licdn.com/dms/image/C5103AQFVZeoFXeN6uQ/profile-displayphoto-shrink_100_100/0/1561983931504?e=1646265600&v=beta&t=Yif3Rlr6JR0zpt9DqvSAQkYyFFEdm_GUoHi1cf89sgs"
                   />
-                  <div class="ml-2">
-                    <div class="text-sm text-black">
-                      <span class="font-semibold">Ken Gorro</span>
+                  <div className="ml-2">
+                    <div className="text-sm text-black">
+                      <span className="font-semibold">Ken Gorro</span>
                     </div>
-                    <div class="text-gray-500 text-xs ">
+                    <div className="text-gray-500 text-xs ">
                       Senior Developer
                     </div>
                   </div>
                 </div>
-                <p class="text-gray-800 text-sm mt-2 leading-normal md:leading-relaxed">
+                <p className="text-gray-800 text-sm mt-2 leading-normal md:leading-relaxed">
                 Intelligent software engineer. Bryl takes lead during software development and can handle and manage teams well.
                 </p>
               </div>
             </div>
-            <div class="pt-5 flex items-center justify-center">
-              <div class="bg-white border shadow-sm px-4 py-3 rounded-lg">
-                <div class="flex items-center">
+            <div className="pt-5 flex items-center justify-center">
+              <div className="bg-white border shadow-sm px-4 py-3 rounded-lg">
+                <div className="flex items-center">
                   <img
-                    class="h-12 w-12 rounded-full"
+                    className="h-12 w-12 rounded-full"
                     src="https://media-exp1.licdn.com/dms/image/C5103AQEp7__1sip9cw/profile-displayphoto-shrink_100_100/0/1573913939247?e=1646265600&v=beta&t=LH2nW5TESntqxD_WqOOLFerjHON82zBOPfEX5GKL254"
                   />
-                  <div class="ml-2">
-                    <div class="text-sm text-black">
-                      <span class="font-semibold">Van Honoridez</span>
+                  <div className="ml-2">
+                    <div className="text-sm text-black">
+                      <span className="font-semibold">Van Honoridez</span>
                     </div>
-                    <div class="text-gray-500 text-xs ">
+                    <div className="text-gray-500 text-xs ">
                       Application Development Analyst
                     </div>
                   </div>
                 </div>
-                <p class="text-gray-800 text-sm mt-2 leading-normal md:leading-relaxed">
+                <p className="text-gray-800 text-sm mt-2 leading-normal md:leading-relaxed">
                 Bryl and I worked together in various projects where I saw his tenacity to deliver what he promised to do. He is able to meet deadlines without sacrificing the quality of the output, and at times even exceeding the set goals. His dedication to pursue his craft and his mindset as a lifelong learner allow him to be easily mentored, as he is eager to learn new technologies. His enthusiasm at new opportunities makes him a great asset because he does everything with renewed energy and finds ways to optimize existing processes. Bryl sure is a great addition to any team!
                 </p>
               </div>
