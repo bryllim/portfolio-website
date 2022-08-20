@@ -580,7 +580,7 @@ export default function AboutMe() {
                 <div className="flex items-center">
                   <img
                     className="h-12 w-12 rounded-full"
-                    src="https://media-exp1.licdn.com/dms/image/C5603AQFxLl9tLcMg4w/profile-displayphoto-shrink_100_100/0/1617860367732?e=1646265600&v=beta&t=4bS7n7qqt6-TD4CP58WrV1ukGXd-XhObhrztu_Rvck0"
+                    src="https://cdn-icons-png.flaticon.com/512/64/64572.png"
                   />
                   <div className="ml-2">
                     <div className="text-sm text-black">
@@ -601,7 +601,7 @@ export default function AboutMe() {
                 <div className="flex items-center">
                   <img
                     className="h-12 w-12 rounded-full"
-                    src="https://media-exp1.licdn.com/dms/image/C4E03AQFAQpSZ-rJK5A/profile-displayphoto-shrink_100_100/0/1516689167570?e=1646265600&v=beta&t=Qmp4ORwB8yUBaudNMYCr5-DRH3UhfnVHnRQymZ33nbE"
+                    src="https://cdn-icons-png.flaticon.com/512/64/64572.png"
                   />
                   <div className="ml-2">
                     <div className="text-sm text-black">
@@ -622,7 +622,7 @@ export default function AboutMe() {
                 <div className="flex items-center">
                   <img
                     className="h-12 w-12 rounded-full"
-                    src="https://media-exp1.licdn.com/dms/image/C5103AQFVZeoFXeN6uQ/profile-displayphoto-shrink_100_100/0/1561983931504?e=1646265600&v=beta&t=Yif3Rlr6JR0zpt9DqvSAQkYyFFEdm_GUoHi1cf89sgs"
+                    src="https://cdn-icons-png.flaticon.com/512/64/64572.png"
                   />
                   <div className="ml-2">
                     <div className="text-sm text-black">
@@ -643,7 +643,7 @@ export default function AboutMe() {
                 <div className="flex items-center">
                   <img
                     className="h-12 w-12 rounded-full"
-                    src="https://media-exp1.licdn.com/dms/image/C5103AQEp7__1sip9cw/profile-displayphoto-shrink_100_100/0/1573913939247?e=1646265600&v=beta&t=LH2nW5TESntqxD_WqOOLFerjHON82zBOPfEX5GKL254"
+                    src="https://cdn-icons-png.flaticon.com/512/64/64572.png"
                   />
                   <div className="ml-2">
                     <div className="text-sm text-black">
