@@ -23,7 +23,7 @@ export default function Hero() {
                 CEO & Co-founder
               </h1>
               <p className="mx-auto text-sm sm:text-base text-gray-700 dark:text-gray-200 sm:max-w-md lg:text-xl md:max-w-3xl">
-                A 23-year-old{" "}
+                A 24-year-old{" "}
                 <span className="font-bold">software engineer</span> based in
                 Cebu, Philippines.
               </p>
